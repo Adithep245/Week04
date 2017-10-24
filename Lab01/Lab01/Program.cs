@@ -10,6 +10,6 @@ public class intergerTest
         d = c * 2;
         e = d / 2;
         f = e % 2;
-        Console.WriteLine("a={0}\n,b={1}\n,c={2}\n,d={3}\n,e={4}\n,f={5}\n");
+        Console.WriteLine("a={0}\n,b={1}\n,c={2}\n,d={3}\n,e={4}\n,f={5}\n",a ,b ,c ,d ,e ,f);
     }
 }
